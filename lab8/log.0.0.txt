@@ -1,0 +1,158 @@
+Dec 13, 2023 4:48:38 AM menu.Menu createStartMenu
+INFO: Returning value
+Dec 13, 2023 6:38:36 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 6:38:36 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 6:38:36 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 6:38:36 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 6:38:36 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 6:38:36 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 6:39:53 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 6:39:53 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 6:39:53 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 6:39:53 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 6:39:53 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 6:39:53 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 7:05:42 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 7:05:42 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 7:05:42 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 7:05:42 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 7:05:42 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 7:05:42 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 7:13:57 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 7:13:57 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 7:13:57 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 7:13:57 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 7:13:57 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 7:13:57 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 7:21:15 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 7:21:15 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 7:21:15 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 7:21:15 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 7:21:15 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 7:21:15 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 8:02:56 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 8:02:56 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 8:02:56 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 8:02:56 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 8:02:56 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 8:02:56 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 8:02:59 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 8:02:59 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 8:02:59 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 8:02:59 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 8:02:59 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 8:02:59 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 8:03:05 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 8:03:05 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 8:03:05 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 8:03:05 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 8:03:05 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 8:03:05 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 8:20:02 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 8:20:02 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 8:20:02 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 8:20:02 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 8:20:02 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 8:20:02 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 8:20:13 AM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 8:20:13 AM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 8:20:13 AM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 8:20:13 AM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 8:20:13 AM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 8:20:13 AM menu.Menu startCommand
+INFO: startCommand executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList setPayrollByName
+INFO: setPayrollByName method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList measureAllClients
+INFO: measureCleints method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMob
+INFO: AddtarufMob mwthod executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMS
+INFO: AddTarufMobSMS method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 4:20:48 PM tarufList.TarufList sortbyPayroll
+INFO: sortbyPayroll method executed
+Dec 13, 2023 4:21:01 PM command.StartMenuCommand execute
+INFO: StartMenuCommand Command executed
+Dec 13, 2023 4:21:01 PM menu.Menu createStartMenu
+INFO: CreateStartMenu Executed
+Dec 13, 2023 4:21:01 PM menu.Menu createStartMenu
+INFO: Putting items in menu items
+Dec 13, 2023 4:21:01 PM menu.Menu getMenuKeys
+INFO: getMenuKeys executed
+Dec 13, 2023 4:21:01 PM menu.Menu printMenu
+INFO: printMenu executed
+Dec 13, 2023 4:21:01 PM menu.Menu startCommand
+INFO: startCommand executed

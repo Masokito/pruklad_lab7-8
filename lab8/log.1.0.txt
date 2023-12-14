@@ -1,0 +1,24 @@
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList setPayrollByName
+INFO: setPayrollByName method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMSInet
+INFO: AddTarufMobSMSMMSInet method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList measureAllClients
+INFO: measureCleints method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMob
+INFO: AddtarufMob mwthod executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMS
+INFO: AddTarufMobSMS method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList AddTarufMobSMSMMS
+INFO: AddTarufMobSMSMMS method executed
+Dec 13, 2023 8:20:33 AM tarufList.TarufList sortbyPayroll
+INFO: sortbyPayroll method executed
